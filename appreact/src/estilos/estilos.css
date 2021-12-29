@@ -1,0 +1,51 @@
+.text-colorCard{
+    color: brown;
+    text-align: center;
+}
+/*Nuevos estilos*/
+.cajaHome{
+    padding-bottom: 10em;
+    margin-bottom: 1em;
+}
+
+.tarjetas{
+    padding-top: 5em;
+}
+
+.fondo{
+    background-color: #600A0B;
+}
+
+.cajaMateriales{
+    padding-bottom: 8em;
+    margin-bottom: 1em;
+}
+
+.cajaSala{
+    padding-bottom: 8em;
+    margin-bottom: 1em;
+}
+
+.cajaHorarios{
+    padding-bottom: 15.4em;
+}
+
+.button{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #600A0B;
+}
+
+.horarios{
+    padding-left: 10em;
+    padding-bottom: 10em;
+    padding-right: 10em;
+    padding-top: 4em;
+}
